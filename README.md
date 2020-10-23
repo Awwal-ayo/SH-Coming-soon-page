@@ -1,3 +1,3 @@
 # SH-Coming-soon-page
-<img src="webview.jpg">
-<img src="mobileview.jpg">
+<img src="CSS/images/webview.jpg">
+<img src="CSS/images/mobileview.jpg">
